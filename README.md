@@ -59,15 +59,3 @@ Callbacks: **EarlyStopping** & **LR Scheduler**
 
 ---
 
-## 📂 Project Structure
-
-📁 air-quality-lstm
-│── data/                 # Dataset files
-│── train_lstm.py         # Model training script
-│── evaluate.py           # Evaluation & visualization
-│── model_lstm.h5         # Saved LSTM model
-│── requirements.txt      # Dependencies
-│── README.md             # Project documentation
-
----
-
